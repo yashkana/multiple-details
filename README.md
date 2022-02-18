@@ -101,7 +101,8 @@ namespace exersises<br>
     }<br>
     
     output
-    ![Screenshot 2022-02-18 111155](https://user-images.githubusercontent.com/98301023/154624788-6804ac3f-f67c-44ca-b157-26937a2ead72.png)
+![Screenshot 2022-02-18 111155](https://user-images.githubusercontent.com/98301023/154625524-9ebd432d-82c6-4980-84dd-96ac07bf5013.png)
+
 
     
 
